@@ -37,3 +37,19 @@ Each topic has its own folder containing:
 - **Resources:** Additional references.
 
 
+numerical-analysis/  
+│  
+├── 01-error-analysis/  
+│   ├── notes.md  
+│   ├── error_analysis.py  
+│   └── resources/  
+│  
+├── 02-polynomial-interpolation/  
+│   ├── notes.md  
+│   ├── interpolation.py  
+│   └── resources/  
+│  
+... (folders for other topics)  
+│  
+└── README.md  
+
